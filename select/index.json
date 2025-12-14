@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アンゼンパイ",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-14T09:12:40.334238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンゼンパイ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_アンゼンパイ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンゼンパイ - Anzenpai",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_アンゼンパイ_-_Anzenpai_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンゼンパイ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_アンゼンパイ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
